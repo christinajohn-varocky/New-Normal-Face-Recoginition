@@ -19,4 +19,5 @@ Now face mask is an inevitable thing in our lifestyle to ensure our safety. Henc
 
 # Story in short
 We used SSD for image detection and face recognition using the FaceNet then we classified the images according to each student using SVM classifier.
+The classified images are then saved to an excel sheet for day. This will bring an alternative for school attendence book.
 
